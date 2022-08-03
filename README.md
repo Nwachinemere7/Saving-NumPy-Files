@@ -5,7 +5,7 @@ np.save() method
 np.savez() method and
 np.savetxt() method
 
-Details of the steps taken and the code are contained in the .ipynd files.
+Details of the steps taken and the code are contained in the .ipynb files.
 
 
 cheers
